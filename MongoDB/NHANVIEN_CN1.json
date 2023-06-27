@@ -1,0 +1,22 @@
+{
+  {
+    "_id": "ObjectId(\"63984c1e03c8e5b5ca608cdc\")",
+    "MaNV": "NV01",
+    "Hoten": "Nguyễn Thị Diệu Ân",
+    "Gioitinh": "Nữ",
+    "NgVL": "2020-12-20",
+    "Chucvu": "Quản lý",
+    "MaCN": "CN1",
+    "Sđt": "0865469104"
+  },
+  {
+    "_id": "ObjectId(\"63992d36192821bd8ec81332\")",
+    "MaNV": "NV07",
+    "Hoten": "Huỳnh Kiều Trinh",
+    "Gioitinh": "Nữ",
+    "NgVL": "2021-01-03",
+    "Chucvu": "Nhân viên",
+    "MaCN": "CN1",
+    "Sđt": "034562789"
+  }
+}

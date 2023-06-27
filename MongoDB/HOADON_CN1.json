@@ -1,0 +1,67 @@
+{
+  {
+    "_id": "ObjectId(\"6398545ba7cd2875ed3d211e\")",
+    "SoHD": "1001",
+    "NgHD": " 2020- 12- 25 ",
+    "MaKH": "K001",
+    "MaNV": "NV01",
+    "TriGia": "35000"
+  },
+  {
+    "_id": "ObjectId(\"63985482a7cd2875ed3d2120\")",
+    "SoHD": "1005",
+    "NgHD": " 2021-02-03",
+    "MaKH": " K003",
+    "MaNV": "NV02",
+    "TriGia": " 327000"
+  },
+  {
+    "_id": "ObjectId(\"63985497a7cd2875ed3d2122\")",
+    "SoHD": "1007",
+    "NgHD": " 2021-02-28",
+    "MaKH": " K001",
+    "MaNV": "NV03",
+    "TriGia": " 40000"
+  },
+  {
+    "_id": "ObjectId(\"639854b0a7cd2875ed3d2124\")",
+    "SoHD": "1008",
+    "NgHD": " 2021-03-12",
+    "MaKH": " K003",
+    "MaNV": "NV01",
+    "TriGia": "210000"
+  },
+  {
+    "_id": "ObjectId(\"639854eda7cd2875ed3d2127\")",
+    "SoHD": "1016",
+    "NgHD": " 2021-07-27",
+    "MaKH": " K009",
+    "MaNV": "NV01",
+    "TriGia": "240000"
+  },
+  {
+    "_id": "ObjectId(\"63985505a7cd2875ed3d2129\")",
+    "SoHD": "1017",
+    "NgHD": " 2021-08-08",
+    "MaKH": " K001",
+    "MaNV": "NV02",
+    "TriGia": "520000"
+  },
+  {
+    "_id": "ObjectId(\"6398551ba7cd2875ed3d212b\")",
+    "SoHD": "1018",
+    "NgHD": " 2021-09-02",
+    "MaKH": " K010",
+    "MaNV": "NV03",
+    "TriGia": " 50000"
+  },
+  {
+    "_id": "ObjectId(\"6398552aa7cd2875ed3d212d\")",
+    "SoHD": "1019",
+    "NgHD": " 2021-09-18",
+    "MaKH": " K003",
+    "MaNV": "NV05",
+    "TriGia": "200000"
+  }
+
+}

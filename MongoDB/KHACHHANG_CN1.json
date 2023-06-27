@@ -1,0 +1,58 @@
+{
+  {
+    "_id": "ObjectId(\"639849a203c8e5b5ca608cce\")",
+    "MaKH": "K001",
+    "Hoten": " Phạm Thị Minh Châu ",
+    "Diachi": "98,Ấp 1, xã Phước Long, huyện Giồng Trôm, tỉnh Bến Tre",
+    "Sdt": "0361051729",
+    "Ngaysinh": "2002-11-08",
+    "Doanhso": "89000",
+    "NgayDK": "2020-12-25",
+    "MaCN": "CN1",
+    "Sđt": "0378912456"
+  },
+  {
+    "_id": "ObjectId(\"639849fb03c8e5b5ca608cd0\")",
+    "MaKH": "K003",
+    "Hoten": "Võ Quốc Huy",
+    "Diachi": " Ấp 6, xã Sơn Phú, huyện Giồng Trôm, tỉnh Bến Tre",
+    "Sdt": "0391082860",
+    "Ngaysinh": "1995-05-04",
+    "Doanhso": "737000",
+    "NgayDK": "2021-02-03",
+    "MaCN": "CN1"
+  },
+  {
+    "_id": "ObjectId(\"63984a4803c8e5b5ca608cd2\")",
+    "MaKH": "K004",
+    "Hoten": "Kim Duy Khang",
+    "Diachi": "749, Ấp 3, xã Thạnh Phú Đông, huyện Giồng Trôm, tỉnh Bến Tre",
+    "Sdt": "0981064169",
+    "Ngaysinh": "2001-03-17",
+    "Doanhso": "170000",
+    "NgayDK": "2021-03-26",
+    "MaCN": "CN1"
+  },
+  {
+    "_id": "ObjectId(\"63984a8c03c8e5b5ca608cd4\")",
+    "MaKH": "K009",
+    "Hoten": "Võ Văn Lâm Trường",
+    "Diachi": "67, Ấp 2B, xã  Thạnh Phú Đông, huyện Giồng Trôm, tỉnh Bến Tre",
+    "Sdt": "0789453470",
+    "Ngaysinh": "2000-06-18",
+    "Doanhso": "240000",
+    "NgayDK": "2021-07-27",
+    "MaCN": "CN1"
+  },
+  {
+    "_id": "ObjectId(\"63984aa703c8e5b5ca608cd6\")",
+    "MaKH": "K010",
+    "Hoten": "Trần Thị Hải Yến",
+    "Diachi": "339, Ấp 1, xã Tân Hào, huyện Giồng Trôm, tỉnh Bến Tre",
+    "Sdt": "0368593489",
+    "Ngaysinh": "2000-09-30",
+    "Doanhso": "500000",
+    "NgayDK": "2021-09-02",
+    "MaCN": "CN1"
+  }
+}

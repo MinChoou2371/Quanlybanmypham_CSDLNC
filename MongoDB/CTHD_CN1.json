@@ -1,0 +1,44 @@
+{
+  {
+    "_id": "ObjectId(\"6398564aa7cd2875ed3d2140\")",
+    "SoHD": "1001",
+    "MASP": " CF01",
+    "SL": " 1"
+  },
+  {
+    "_id": "ObjectId(\"63985660a7cd2875ed3d2142\")",
+    "SoHD": "1001",
+    "MASP": " CF02",
+    "SL": " 1"
+  },
+  {
+    "_id": "ObjectId(\"6398566ca7cd2875ed3d2144\")",
+    "SoHD": "1001",
+    "MASP": " TP02",
+    "SL": " 2"
+  },
+  {
+    "_id": "ObjectId(\"6398567ca7cd2875ed3d2146\")",
+    "SoHD": "1005",
+    "MASP": " ST03",
+    "SL": " 4"
+  },
+  {
+    "_id": "ObjectId(\"6398568aa7cd2875ed3d2148\")",
+    "SoHD": "1005",
+    "MASP": " TP05",
+    "SL": " 10"
+  },
+  {
+    "_id": "ObjectId(\"6398569aa7cd2875ed3d214a\")",
+    "SoHD": "1005",
+    "MASP": " TP06",
+    "SL": "4"
+  },
+  {
+    "_id": "ObjectId(\"639856a8a7cd2875ed3d214c\")",
+    "SoHD": "1005",
+    "MASP": " TS01",
+    "SL": "5"
+  }
+}

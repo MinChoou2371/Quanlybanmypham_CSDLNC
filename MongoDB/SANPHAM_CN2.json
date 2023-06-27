@@ -1,0 +1,170 @@
+{
+  {
+    "_id": "ObjectId(\"639862eea7cd2875ed3d21e6\")",
+    "MaSP": "CF01",
+    "TenSP": "Son 3ce ",
+    "DVT": "Thỏi ",
+    "Gia": "10000",
+    "SLTon": "20"
+  },
+  {
+    "_id": ObjectId("63986301a7cd2875ed3d21e8"),
+    "MaSP": "CF02",
+    "TenSP": "Kem chống nắng anessa",
+    "DVT": "Tuýt ",
+    "Gia": "15000",
+    "SLTon": "30"
+  },
+  {
+    "_id": ObjectId("63986320a7cd2875ed3d21ea"),
+    "MaSP": "CF03",
+    "TenSP": "Kem chông nắng vichy ",
+    "DVT": "Tuýt ",
+    "Gia": "15000",
+    "SLTon": "20"
+  },
+  {
+    "_id": ObjectId("6398632ea7cd2875ed3d21ec"),
+    "MaSP": " CF04",
+    "TenSP": " Kem dưỡng âm laroche-posay ",
+    "DVT": " Lọ ",
+    "Gia": "25000",
+    "SLTon": "25"
+  },
+  {
+    "_id": ObjectId("63986338a7cd2875ed3d21ee"),
+    "MaSP": " ST01",
+    "TenSP": " Kem nền maybelline ",
+    "DVT": " Chai ",
+    "Gia": "30000",
+    "SLTon": "20"
+  },
+  {
+    "_id": ObjectId("6398637aa7cd2875ed3d21f3"),
+    "MaSP": " ST02",
+    "TenSP": " Kem nền mac kiềm dầu spf15",
+    "DVT": " Chai ",
+    "Gia": "30000",
+    "SLTon": "10"
+  },
+  {
+    "_id": ObjectId("63986386a7cd2875ed3d21f5"),
+    "MaSP": " ST03",
+    "TenSP": " Bút kẻ mắt maybelline ",
+    "DVT": " Cây ",
+    "Gia": "30000",
+    "SLTon": "10"
+  }
+  {
+    "_id": ObjectId("639863aaa7cd2875ed3d21f7"),
+    "MaSP": " TP01",
+    "TenSP": "Bông tẩy trang silcot",
+    "DVT": " Gói ",
+    "Gia": "5000",
+    "SLTon": "10"
+  },
+  {
+    "_id": ObjectId("63986574a7cd2875ed3d220b"),
+    "MaSP": "TP02",
+    "TenSP": "Chì kẻ mắt maybelline",
+    "DVT": "Cây ",
+    "Gia": "5000",
+    "SLTon": "30"
+  },
+  {
+    "_id": ObjectId("639865a7a7cd2875ed3d220d"),
+    "MaSP": "TP03",
+    "TenSP": "Phấn mắt 3ce",
+    "DVT": " Bảng ",
+    "Gia": "4000",
+    "SLTon": "40"
+  },
+  {
+    "_id": ObjectId("639865cea7cd2875ed3d2210"),
+    "MaSP": " TP04",
+    "TenSP": "Phấn mắt merzy",
+    "DVT": " Bảng ",
+    "Gia": "4000",
+    "SLTon": "40"
+  },
+  {
+    "_id": ObjectId("639865dfa7cd2875ed3d2212"),
+    "MaSP": " TP05",
+    "TenSP": "Sữa rửa mặt cerave",
+    "DVT": " Chai ",
+    "Gia": "3000",
+    "SLTon": "10"
+  },
+  {
+    "_id": ObjectId("639865eea7cd2875ed3d2214"),
+    "MaSP": " TP06",
+    "TenSP": " Sữa rửa mặt cetaphil",
+    "DVT": " Chai ",
+    "Gia": "3000",
+    "SLTon": "20"
+  },
+  {
+    "_id": ObjectId("639865fba7cd2875ed3d2216"),
+    "MaSP": " TS01",
+    "TenSP": " Kem dưỡng âm klairs",
+    "DVT": " Lọ ",
+    "Gia": "15000",
+    "SLTon": "20"
+  },
+  {
+    "_id": ObjectId("63986607a7cd2875ed3d2218"),
+    "MaSP": " TS02",
+    "TenSP": " Kem dưỡng ẩm senka",
+    "DVT": " Lọ ",
+    "Gia": "20000",
+    "SLTon": "30"
+  },
+  {
+    "_id": ObjectId("63986613a7cd2875ed3d221a"),
+    "MaSP": " TS03",
+    "TenSP": " Kem dưỡng âm ponds",
+    "DVT": " Lọ ",
+    "Gia": "20000",
+    "SLTon": "20"
+  },
+  {
+    "_id": ObjectId("6398662aa7cd2875ed3d221c"),
+    "MaSP": " TS04",
+    "TenSP": " Serum-tinh chất klairs vitaminC",
+    "DVT": " Lọ ",
+    "Gia": "20000",
+    "SLTon": "30"
+  },
+  {
+    "_id": ObjectId("63986634a7cd2875ed3d221e"),
+    "MaSP": " TS05",
+    "TenSP": " Tinh chất goodndoc dưỡng ẩm hydra b5",
+    "DVT": " Lọ ",
+    "Gia": "20000",
+    "SLTon": "30"
+  },
+  {
+    "_id": ObjectId("6398663fa7cd2875ed3d2220"),
+    "MaSP": " TS06",
+    "TenSP": " Tẩy trang loreal",
+    "DVT": " Chai ",
+    "Gia": "20000",
+    "SLTon": "20"
+  },
+  {
+    "_id": ObjectId("63986649a7cd2875ed3d2222"),
+    "MaSP": " TS07",
+    "TenSP": " Tẩy trang bioderma",
+    "DVT": " Chai ",
+    "Gia": "25000",
+    "SLTon": "10"
+  },
+  {
+    "_id": ObjectId("63986657a7cd2875ed3d2224"),
+    "MaSP": " TS08",
+    "TenSP": " Tẩy trang garnier",
+    "DVT": " Chai ",
+    "Gia": "30000",
+    "SLTon": "10"
+  }
+}

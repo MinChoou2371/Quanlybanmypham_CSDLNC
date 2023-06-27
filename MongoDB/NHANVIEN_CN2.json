@@ -1,0 +1,43 @@
+{
+  {
+    "_id": "ObjectId(\"63984f0703c8e5b5ca608cec\")",
+    "MaNV": "NV02",
+    "Hoten": "Trần Khánh Duy",
+    "Gioitinh": "Nam",
+    "NgVL": "2020-12-20",
+    "Chucvu": " Nhân viên ",
+    "MaCN": "CN2",
+    "Sđt": "0349821209"
+  },
+  {
+    "_id": "ObjectId(\"63984f1403c8e5b5ca608cee\")",
+    "MaNV": "NV03",
+    "Hoten": "Tạ Nguyễn Gia Hân",
+    "Gioitinh": "Nữ",
+    "NgVL": "2020-01-15",
+    "Chucvu": " Quản lý ",
+    "MaCN": "CN2",
+    "Sđt": "0357377543"
+  },
+  {
+    "_id": "ObjectId(\"63984f2e03c8e5b5ca608cf0\")",
+    "MaNV": "NV04",
+    "Hoten": " Huỳnh Thị Thanh Thủy ",
+    "Gioitinh": " Nữ ",
+    "NgVL": "2020-02-03",
+    "Chucvu": " Nhân viên ",
+    "MaCN": "CN2",
+    "Sđt": "0374249602"
+  },
+  {
+    "_id": "ObjectId(\"63992aebd1806d488bc9cc8d\")",
+    "MaNV": "NV06",
+    "Hoten": "Nguyễn Thị Huyền Trang",
+    "Gioitinh": "Nữ",
+    "NgVL": "2021-01-01",
+    "Chucvu": "Nhân viên",
+    "MaCN": "CN2",
+    "Sđt": "0234562344"
+  }
+
+}

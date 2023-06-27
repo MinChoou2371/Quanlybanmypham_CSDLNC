@@ -1,0 +1,58 @@
+{
+  {
+    "_id": "ObjectId(\"63984e9f03c8e5b5ca608ce1\")",
+    "MaKH": "K002",
+    "Hoten": " Ngô Phạm Hoàn Châu ",
+    "Diachi": "410, Ấp 5, xã  Sơn Phú, huyện Giồng Trôm, tỉnh Bến Tre ",
+    "Sdt": "0381075089",
+    "Ngaysinh": "1999-07-23",
+    "Doanhso": "370000",
+    "NgayDK": "2021-01-28",
+    "MaCN": "CN2"
+  },
+  {
+    "_id": "ObjectId(\"63984eb103c8e5b5ca608ce3\")",
+    "MaKH": " K005",
+    "Hoten": " Lê Võ Huỳnh Nga ",
+    "Diachi": "172, Ấp 6, xã Tân Lợi Thạnh, huyện Giồng Trôm, tỉnh Bến Tre ",
+    "Sdt": "0781050003",
+    "Ngaysinh": "2002-12-28",
+    "Doanhso": "530000",
+    "NgayDK": "2021-04-30",
+    "MaCN": "CN2"
+  },
+  {
+    "_id": "ObjectId(\"63984ec303c8e5b5ca608ce5\")",
+    "MaKH": " K006",
+    "Hoten": " Nguyễn Ngọc Công Thành ",
+    "Diachi": "987, Ấp 6, xã Phước Long, huyện Giồng Trôm, tỉnh Bến Tre ",
+    "Sdt": "0332086293",
+    "Ngaysinh": "2002-08-05",
+    "Doanhso": "10000",
+    "NgayDK": "2021-05-19",
+    "MaCN": "CN2"
+  },
+  {
+    "_id": "ObjectId(\"63984eda03c8e5b5ca608ce7\")",
+    "MaKH": " K007",
+    "Hoten": " Tô Thị Bé Thơ ",
+    "Diachi": "237, Ấp 4, xã Sơn Phú, huyện Giồng Trôm, tỉnh Bến Tre ",
+    "Sdt": "0367655586",
+    "Ngaysinh": "1998-07-20",
+    "Doanhso": "420000",
+    "NgayDK": "2021-06-01",
+    "MaCN": "CN2"
+  },
+  {
+    "_id": "ObjectId(\"63984eed03c8e5b5ca608ce9\")",
+    "MaKH": " K008",
+    "Hoten": " Võ Huỳnh Anh Tuấn",
+    "Diachi": "659, Ấp 7, xã Phước Long, huyện Giồng Trôm, tỉnh Bến Tre",
+    "Sdt": "0984384486",
+    "Ngaysinh": "2001-01-25",
+    "Doanhso": "200000",
+    "NgayDK": "2021-07-15",
+    "MaCN": "CN2"
+  }
+
+}
